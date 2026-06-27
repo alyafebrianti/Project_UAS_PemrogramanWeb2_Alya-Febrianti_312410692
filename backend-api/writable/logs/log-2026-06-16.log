@@ -1,0 +1,50 @@
+CRITICAL - 2026-06-16 15:01:39 --> Error: Class "App\Models\SupplierModel" not found
+[Method: GET, Route: api/supplier]
+in APPPATH\Controllers\Api\Supplier.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Api\Supplier->index()
+ 2 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api\Supplier))
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(65): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\UAS_WEB2_312410015_ALDI RISMANDAYANA\\backend-api\\public\\index.php')
+CRITICAL - 2026-06-16 15:01:41 --> Error: Class "App\Models\SupplierModel" not found
+[Method: GET, Route: api/supplier]
+in APPPATH\Controllers\Api\Supplier.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Api\Supplier->index()
+ 2 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api\Supplier))
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(65): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\UAS_WEB2_312410015_ALDI RISMANDAYANA\\backend-api\\public\\index.php')
+CRITICAL - 2026-06-16 15:01:42 --> Error: Class "App\Models\SupplierModel" not found
+[Method: GET, Route: api/supplier]
+in APPPATH\Controllers\Api\Supplier.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Api\Supplier->index()
+ 2 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api\Supplier))
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(65): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\UAS_WEB2_312410015_ALDI RISMANDAYANA\\backend-api\\public\\index.php')
+CRITICAL - 2026-06-16 15:05:07 --> Error: Class "App\Models\SupplierModel" not found
+[Method: GET, Route: api/supplier]
+in APPPATH\Controllers\Api\Supplier.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Api\Supplier->index()
+ 2 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api\Supplier))
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(65): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\UAS_WEB2_312410015_ALDI RISMANDAYANA\\backend-api\\public\\index.php')
+CRITICAL - 2026-06-16 15:05:09 --> Error: Class "App\Models\SupplierModel" not found
+[Method: GET, Route: api/supplier]
+in APPPATH\Controllers\Api\Supplier.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Api\Supplier->index()
+ 2 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api\Supplier))
+ 3 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(65): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\UAS_WEB2_312410015_ALDI RISMANDAYANA\\backend-api\\public\\index.php')
